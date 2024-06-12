@@ -1,2 +1,4 @@
 test:
   result: prod
+  id: test123
+  pw: test123
