@@ -1,2 +1,4 @@
 yushin:
   result: test
+  id: name-prod
+  pw: name-prod
